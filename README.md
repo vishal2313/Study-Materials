@@ -32,4 +32,6 @@ This repository is maintained for:
 Large PDF files are handled using **Git Large File Storage (LFS)**.
 
 ---
-📌 Maintained by **Vishal Sonkar**
+📌 Maintained by **Vishal**
+
+This repository contains my C, DSA, and Web Development notes.
