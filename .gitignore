@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.out
+*.o
+
+# Temporary files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
